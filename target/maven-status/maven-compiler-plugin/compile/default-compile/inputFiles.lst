@@ -1,0 +1,10 @@
+/home/pavel/Загрузки/notes/src/main/java/model/service/NoteMapperImpl.java
+/home/pavel/Загрузки/notes/src/main/java/utils/HibernateConfig.java
+/home/pavel/Загрузки/notes/src/main/java/model/service/CheckDataTask.java
+/home/pavel/Загрузки/notes/src/main/java/StartApp.java
+/home/pavel/Загрузки/notes/src/main/java/model/service/MapperIF/NoteMapper.java
+/home/pavel/Загрузки/notes/src/main/java/utils/Loader.java
+/home/pavel/Загрузки/notes/src/main/java/model/entity/Note.java
+/home/pavel/Загрузки/notes/src/main/java/model/entity/AbstractEntity.java
+/home/pavel/Загрузки/notes/src/main/java/controller/EditingNotesController.java
+/home/pavel/Загрузки/notes/src/main/java/controller/MainNotesController.java
